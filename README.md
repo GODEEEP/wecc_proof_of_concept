@@ -12,4 +12,4 @@ Quick-look plots analyzing the data are stored in the [plots](plots/) directory.
 >
 | BA | Visualization | Figure |
 | :-: | :-: | :-: |
-| AVA | - | - |
+| CISO  | Load Time Series  | <img src="plots/CISO_Load.png" width="50">  |
