@@ -10,6 +10,6 @@ Quick-look plots analyzing the data are stored in the [plots](plots/) directory.
 
 ## Results by Balancing Authority 
 >
-| BA | Load Time Series | Solar Time Series |
-| :-: | :-: | :-: |
-| CISO  | <img src="plots/CISO_Load.png" width="50">  | <img src="plots/CISO_Solar.png" width="50">  |
+| BA | Load Time Series | Solar Time Series | Wind Time Series |
+| :-: | :-: | :-: | :-: |
+| CISO  | <img src="plots/CISO_Load.png" width="50">  | <img src="plots/CISO_Solar.png" width="50">  | <img src="plots/CISO_Wind.png" width="50">  |
