@@ -18,6 +18,16 @@ wind or solar deployed in a BA) are marked as -999.
 ## Summary Plots
 Quick-look plots analyzing the data are stored in the [plots](plots/) directory.
 
+## Results by Balancing Authority for 2017 Weather Year
+>
+| BA | Load Time Series | Solar Time Series | Wind Time Series |
+| :-: | :-: | :-: | :-: |
+| AZPS  | <img src="plots/2017/AZPS_Load.png" width="50">  | <img src="plots/2017/AZPS_Solar.png" width="50">  | <img src="plots/2017/AZPS_Wind.png" width="50">  |
+| BPAT  | <img src="plots/2017/BPAT_Load.png" width="50">  | <img src="plots/2017/BPAT_Solar.png" width="50">  | <img src="plots/2017/BPAT_Wind.png" width="50">  |
+| CISO  | <img src="plots/2017/CISO_Load.png" width="50">  | <img src="plots/2017/CISO_Solar.png" width="50">  | <img src="plots/2017/CISO_Wind.png" width="50">  |
+| PNM  | <img src="plots/2017/PNM_Load.png" width="50">  | <img src="plots/2017/PNM_Solar.png" width="50">  | <img src="plots/2017/PNM_Wind.png" width="50">  |
+| PSCO  | <img src="plots/2017/PSCO_Load.png" width="50">  | <img src="plots/2017/PSCO_Solar.png" width="50">  | <img src="plots/2017/PSCO_Wind.png" width="50">  |
+
 ## Results by Balancing Authority for 2018 Weather Year
 >
 | BA | Load Time Series | Solar Time Series | Wind Time Series |
